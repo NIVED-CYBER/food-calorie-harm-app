@@ -1,3 +1,9 @@
+# Install NLTK data
+import nltk
+nltk.download('wordnet')
+nltk.download('omw-1.4')
+
+# Import libraries
 import streamlit as st
 import requests
 from transformers import BlipProcessor, BlipForConditionalGeneration
