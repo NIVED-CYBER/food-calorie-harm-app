@@ -1,5 +1,7 @@
 # food-calorie-harm-app
 Link:https://nutrifo-food-calorie-harmful.streamlit.app/
+
+
 🍽️ NUTRIFO: AI-Powered Food Analysis App
 📌 Overview
 NUTRIFO is an AI-powered web application that helps users analyze food items by detecting ingredients, estimating calories and macronutrients, and identifying harmful additives. The app leverages BLIP for image captioning, OCR for text extraction, and NLP for food recognition, making it an all-in-one nutrition assistant.
