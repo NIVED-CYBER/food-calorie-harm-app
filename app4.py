@@ -135,7 +135,7 @@ def check_ingredients(ingredients):
     return harmful_ingredients
 
 # Streamlit UI
-st.title("🍽️ NUTRIFO")
+st.title("🍽️ NutriFit")
 st.write("Upload a food image to analyze its calories and check for harmful ingredients.")
 
 # Create tabs
